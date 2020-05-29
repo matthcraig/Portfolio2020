@@ -6,24 +6,33 @@
   width: 70%;
 }
 
+.about {
+  float: right;
+}
+
 img {
+  margin-top: 28px;
   float: right;
 }
 
 .quote {
-  margin-top: 12px;
+  margin-top: 16px;
   width: 40%;
   float: left;
 }
 
 .list-1 li {
-  color: olive;
+  color: rgb(50, 77, 19);
 }
 
-.list-2 li {
-  color: gray;
+.list-2 li a {
+  color: rgb(58, 39, 39);
 }
 
 .list-2 h3 {
-  color: olive;
+  color: rgb(31, 31, 10);
+}
+
+.important {
+  color: red;
 }
