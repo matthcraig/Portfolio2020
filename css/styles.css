@@ -9,3 +9,9 @@
 img {
   float: right;
 }
+
+.quote {
+  margin-top: 12px;
+  width: 40%;
+  float: left;
+}
