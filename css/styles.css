@@ -6,6 +6,10 @@
   width: 70%;
 }
 
+.jumbotron {
+  background-image: url("https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/21/1432223625467/4e41652d-614a-4ead-8ae4-8bba9762f882-2060x2056.jpeg?width=1920&quality=85&auto=format&fit=max&s=32b6a731803adb68a4fb46c1e0d2d5df")
+}
+
 .about {
   float: right;
 }
