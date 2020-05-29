@@ -1,32 +1,29 @@
 .box {
-  margin: 12px;
-  padding: 6px;
+  margin: 20px;
+  padding: 10px;
   background-color: lightgrey;
-  border: 3px solid gray;
+  border: 2px solid rgb(124, 104, 74);
   width: 70%;
 }
 
 .jumbotron {
-  background-image: url("https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/21/1432223625467/4e41652d-614a-4ead-8ae4-8bba9762f882-2060x2056.jpeg?width=1920&quality=85&auto=format&fit=max&s=32b6a731803adb68a4fb46c1e0d2d5df")
-}
-
-.about {
-  float: right;
+  background-image: url("https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/21/1432223625467/4e41652d-614a-4ead-8ae4-8bba9762f882-2060x2056.jpeg?width=1920&quality=85&auto=format&fit=max&s=32b6a731803adb68a4fb46c1e0d2d5df");
+  font-family: Calibri;
 }
 
 img {
-  margin-top: 28px;
+  margin-top: 30px;
   float: right;
 }
 
 .quote {
-  margin-top: 16px;
+  margin-top: 24px;
   width: 40%;
   float: left;
 }
 
 .list-1 li {
-  color: rgb(50, 77, 19);
+  color: rgb(35, 53, 14);
 }
 
 .list-2 li a {
@@ -34,7 +31,7 @@ img {
 }
 
 .list-2 h3 {
-  color: rgb(31, 31, 10);
+  color: rgb(61, 61, 37);
 }
 
 .important {
