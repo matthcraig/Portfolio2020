@@ -17,6 +17,19 @@ _This page serves as an online gateway into some current projects that I've work
 
 _For an initial look, if the above requirements are met, you can view the pages code through the github repositories. For a more in depth look, you may need to install a code editing tool such as visual studio code or atom. Once that code editing software is installed, you may download the repository and open the html file, and it will open in your default browser as it would look when published to the web. It should be noted that this tactic is untested on smartphones and tablets._
 
+## Setup/Installation Requirements (continued)
+Open by downloading:
+1. Download this repository onto your computer
+2. Double click index.html to open it in your web browser
+
+Open via Bash/GitBash:
+1. Clone this repository onto your computer:
+`git clone https://github.com/mgcraig78/Portfolio2020`
+2. Navigate into the `Portfolio2020` directory in Visual Studio Code or preferred text editor
+`code .`
+3. Open index.html in Chrome or preferred browser:
+`open index.html`
+
 ## Known Bugs
 
 _No known bugs_
